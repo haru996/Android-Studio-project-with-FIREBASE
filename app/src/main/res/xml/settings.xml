@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:key="list_back_ground"
+        android:title="Set Background"
+        android:defaultValue="0"
+        android:summary="%s"
+
+        android:entryValues="@array/index"
+        android:entries="@array/background" />
+    <ListPreference
+        android:key="list_style"
+        android:title="Set list font style"
+        android:defaultValue="0"
+        android:summary="%s"
+        android:entryValues="@array/index"
+        android:entries="@array/style"
+        />
+</PreferenceScreen>

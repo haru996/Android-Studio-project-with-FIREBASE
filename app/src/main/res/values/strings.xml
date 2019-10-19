@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="index">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="background">
+        <item>grey</item>
+        <item>blue</item>
+        <item>red</item>
+    </string-array>
+
+    <string-array name="style">
+        <item>none</item>
+        <item>italic</item>
+        <item>bold</item>
+    </string-array>
+
+</resources>
